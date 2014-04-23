@@ -4,7 +4,7 @@
     "description": "Mateusz Chrobok's portfolio",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mchrobok/homepage.git"
+        "url": "https://github.com/mchrobok/portfolio.git"
     },
     "devDependencies": {
         "grunt": "0.4.4",
