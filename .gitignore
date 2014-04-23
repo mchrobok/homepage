@@ -1,7 +1,12 @@
-/build
-/target
-/.settings
-/.idea
 .classpath
 .project
-/WebContent/styles/*.css
+
+/.idea
+/.settings
+/build
+/node_modules
+/target
+/target-grunt
+/webapp/resources/scripts/js/app
+/webapp/resources/scripts/js/source-map
+/webapp/resources/styles/css
