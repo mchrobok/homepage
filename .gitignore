@@ -8,4 +8,5 @@
 /target
 /target-grunt
 /webapp/resources/scripts/js/app
+/webapp/resources/scripts/js/source-map
 /webapp/resources/styles/css
